@@ -1,5 +1,3 @@
-Sir I have developed a car rental system the source code is not attaching but I am pasting the code here.
-
 #include<iostream>
 #include<string>
 #include<fstream>

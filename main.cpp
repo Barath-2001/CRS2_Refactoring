@@ -49,7 +49,7 @@ return model;
 double pph() {
 return price_per_hour;
 }
-double ppd() {
+double ppd() const {
 return price_per_day;
 }
 void SetData(string cname, string cnum, string col, int mod, double p, double pd) {
